@@ -1,4 +1,3 @@
-```
 Rem necessary reference ： Microsoft scripting runtime
 Sub GetEveryFiles()
     Dim FileManager As New FileSystemObject
@@ -38,5 +37,3 @@ Sub GetEveryFiles()
             NewWorkbook.Close
     MsgBox "done."
 End Sub
-
-```
